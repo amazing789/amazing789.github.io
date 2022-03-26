@@ -2434,7 +2434,7 @@ input, select, textarea {
 		text-decoration: none;
 		/* text-transform: uppercase; */
 		white-space: nowrap;
-		overflow: hidden;
+		overflow: scroll;
 		text-overflow: ellipsis;
 	}
 
@@ -3359,7 +3359,7 @@ input, select, textarea {
 		color: #ffffff;
 		height: 100%;
 		max-width: 80%;
-		overflow-y: scroll ;
+		overflow-y: scroll;
 		padding: 3em 2em;
 		position: fixed;
 		right: 0;
