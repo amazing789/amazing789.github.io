@@ -135,6 +135,7 @@ input, select, textarea {
 
 			body, input, select, textarea {
 				font-size: 12pt;
+				font-weight: 500;
 			}
 
 		}
@@ -2476,7 +2477,7 @@ input, select, textarea {
 		text-align: center;
 		text-decoration: none;
 		text-overflow: ellipsis;
-		text-transform: uppercase;
+		/* text-transform: uppercase; */
 		white-space: nowrap;
 	}
 
@@ -2847,7 +2848,7 @@ input, select, textarea {
 			letter-spacing: 0.35em;
 			margin: 0 0 2.5em 0;
 			text-decoration: none;
-			text-transform: uppercase;
+			/* text-transform: uppercase; */
 			display: inline-block;
 		}
 
@@ -3109,7 +3110,8 @@ input, select, textarea {
 				-webkit-transform: translateX(16.5em);
 				-ms-transform: translateX(16.5em);
 				transform: translateX(16.5em);
-				width: 16.5em;
+				width: 11.5em;
+				opacity: 0.8;
 			}
 
 				#menu > .inner {
