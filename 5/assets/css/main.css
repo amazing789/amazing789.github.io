@@ -106,7 +106,7 @@ input, select, textarea {
 		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
-		letter-spacing: 0.075em;
+		/* letter-spacing: 0.075em; */
 		line-height: 1.65em;
 	}
 
@@ -130,7 +130,7 @@ input, select, textarea {
 
 			body, input, select, textarea {
 				font-size: 14pt;
-				letter-spacing: 0.0375em;
+				/* letter-spacing: 0.0375em; */
 				font-weight: 500;
 			}
 
@@ -166,7 +166,7 @@ input, select, textarea {
 	h1, h2, h3, h4, h5, h6 {
 		color: #fff;
 		font-weight: 800;
-		letter-spacing: 0.225em;
+		/* letter-spacing: 0.225em; */
 		line-height: 1em;
 		margin: 0 0 1em 0;
 		/* text-transform: uppercase; */
@@ -254,7 +254,7 @@ input, select, textarea {
 		border-radius: 3px;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
-		letter-spacing: 0;
+		/* letter-spacing: 0; */
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
 	}
@@ -3394,7 +3394,7 @@ input, select, textarea {
 					color: inherit;
 					display: block;
 					font-size: 0.8em;
-					letter-spacing: 0.125em;
+					/* letter-spacing: 0.125em; */
 					outline: 0;
 					text-decoration: none;
 					/* text-transform: uppercase; */
@@ -3516,7 +3516,7 @@ input, select, textarea {
 						color: #fff;
 						display: block;
 						font-size: 0.8em;
-						letter-spacing: 0.225em;
+						/* letter-spacing: 0.225em; */
 						padding: 0 1.5em;
 						/* text-transform: uppercase; */
 					}
@@ -3640,7 +3640,7 @@ input, select, textarea {
 			}
 
 		#banner p {
-			letter-spacing: 0.125em;
+			/* letter-spacing: 0.125em; */
 			/* text-transform: uppercase; */
 		}
 
@@ -3667,7 +3667,7 @@ input, select, textarea {
 			font-size: 0.8em;
 			height: 8.5em;
 			left: 50%;
-			letter-spacing: 0.225em;
+			/* letter-spacing: 0.225em; */
 			margin-left: -8.5em;
 			opacity: 1;
 			outline: 0;
@@ -3846,7 +3846,7 @@ input, select, textarea {
 
 		#main > header p {
 			color: inherit;
-			letter-spacing: 0.225em;
+			/* letter-spacing: 0.225em; */
 			/* text-transform: uppercase; */
 			top: 0;
 		}
@@ -3919,7 +3919,7 @@ input, select, textarea {
 		#footer .copyright {
 			color: rgba(255, 255, 255, 0.5);
 			font-size: 0.8em;
-			letter-spacing: 0.225em;
+			/* letter-spacing: 0.225em; */
 			list-style: none;
 			padding: 0;
 			/* text-transform: uppercase; */
