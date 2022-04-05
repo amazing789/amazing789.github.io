@@ -3393,7 +3393,7 @@ input, select, textarea {
 					border: 0;
 					color: inherit;
 					display: block;
-					font-size: 1em;
+					font-size: 0.8em;
 					/* letter-spacing: 0.125em; */
 					outline: 0;
 					text-decoration: none;
