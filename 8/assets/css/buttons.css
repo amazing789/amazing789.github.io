@@ -1,0 +1,64 @@
+.buttons {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-pack: distribute;
+  justify-content: space-around;
+  margin-top: -20px; }
+
+@media screen and (max-width: 736px) {
+  .buttons {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: row;
+    flex-direction: row;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center; } }
+
+.button1 {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  -o-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
+  background-color: #226996;
+  border-radius: 3px;
+  /* border: 0; */
+  color: white;
+  cursor: pointer;
+  font-size: 0.74em;
+  font-weight: 600;
+  height: 3.125em;
+  letter-spacing: 0.125em;
+  line-height: 3.125em;
+  padding: 0 0.7em;
+  text-align: center;
+  text-decoration: none;
+  /* text-transform: uppercase; */
+  white-space: nowrap;
+  overflow: hidden;
+  -o-text-overflow: ellipsis;
+  text-overflow: ellipsis;
+  width: 10em;
+  margin: 3px; }
+
+.button1:hover {
+  background-color: #3A7396; }
+
+.button1:active {
+  background-color: #226996; }
+
+.button2 {
+  background-color: #174664;
+  -webkit-box-shadow: inset 0 0 0 2px #274D64;
+  box-shadow: inset 0 0 0 2px #274D64; }
+
+.button2:hover {
+  background-color: #274D64; }
+
+.button2:active {
+  background-color: #174664; }
