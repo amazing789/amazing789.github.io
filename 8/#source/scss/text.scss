@@ -40,3 +40,24 @@ h2, h4, h3{
 .paragraph{
     margin-top: 20px;
 }
+
+
+.caption{
+    margin-bottom: 0.5em;
+
+}
+
+@media screen and (min-width: 600px) {
+
+    .caption{
+    margin-bottom: 0.15em;
+
+    }
+}
+
+
+
+.wrapper > .inner {
+  background-color: #red;
+
+   }
