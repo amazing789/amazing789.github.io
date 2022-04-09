@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90f497d-6f52-4979-8045-8b0c7c5aa5c0" name="Default Changelist" comment="" />
+    <list default="true" id="a90f497d-6f52-4979-8045-8b0c7c5aa5c0" name="Default Changelist" comment="new 7sdfssdfs">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +71,8 @@
       <workItem from="1649372055655" duration="30000" />
       <workItem from="1649437942208" duration="50000" />
       <workItem from="1649444684772" duration="65000" />
+      <workItem from="1649458377947" duration="48000" />
+      <workItem from="1649501996459" duration="1669000" />
     </task>
     <task id="LOCAL-00001" summary="scdsdc">
       <created>1649169299231</created>
@@ -214,7 +221,28 @@
       <option name="project" value="LOCAL" />
       <updated>1649444706332</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="new 7sdfssdfs">
+      <created>1649458410800</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1649458410800</updated>
+    </task>
+    <task id="LOCAL-00023" summary="new 7sdfssdfs">
+      <created>1649502751970</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1649502751970</updated>
+    </task>
+    <task id="LOCAL-00024" summary="new 7sdfssdfs">
+      <created>1649502815163</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1649502815163</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -236,11 +264,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649191934531" />
-    <state x="393" y="81" key="CommitChangelistDialog2" timestamp="1649444705379">
+    <state x="498" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1649503288220">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="498" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649503288220" />
+    <state x="393" y="81" key="CommitChangelistDialog2" timestamp="1649502814547">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="491" y="-978" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1649169882182" />
-    <state x="393" y="81" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649437979659" />
+    <state x="393" y="81" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649502814547" />
     <state x="393" y="81" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1649444705379" />
     <state width="1515" height="171" key="GridCell.Tab.0.bottom" timestamp="1649192035885">
       <screen x="0" y="0" width="1536" height="824" />
@@ -274,11 +306,15 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="171" key="GridCell.Tab.1.right/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649192035885" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1649444741715">
+    <state x="657" y="327" key="VCS.EditChangelistDialog" timestamp="1649502622933">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="657" y="327" key="VCS.EditChangelistDialog/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649502622933" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2" timestamp="1649502816669">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="451" y="-913" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1649169886791" />
-    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649437983112" />
+    <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649502816669" />
     <state x="361" y="132" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1649444741715" />
     <state x="478" y="11" width="579" height="801" key="find.popup" timestamp="1649191520742">
       <screen x="0" y="0" width="1536" height="824" />
