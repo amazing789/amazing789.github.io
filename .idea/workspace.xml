@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a90f497d-6f52-4979-8045-8b0c7c5aa5c0" name="Default Changelist" comment="new 7sdfssdfs">
+    <list default="true" id="a90f497d-6f52-4979-8045-8b0c7c5aa5c0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/amazing789.github.io.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +74,9 @@
       <workItem from="1649437942208" duration="50000" />
       <workItem from="1649444684772" duration="65000" />
       <workItem from="1649458377947" duration="48000" />
-      <workItem from="1649501996459" duration="1669000" />
+      <workItem from="1649501996459" duration="1691000" />
+      <workItem from="1649503794891" duration="403000" />
+      <workItem from="1649504211244" duration="319000" />
     </task>
     <task id="LOCAL-00001" summary="scdsdc">
       <created>1649169299231</created>
@@ -242,7 +246,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649502815163</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="new 7sdfssdfs">
+      <created>1649503695977</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1649503695977</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,11 +279,11 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="498" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649503288220" />
-    <state x="393" y="81" key="CommitChangelistDialog2" timestamp="1649502814547">
+    <state x="393" y="81" key="CommitChangelistDialog2" timestamp="1649503695304">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="491" y="-978" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.-1080.1920.1040" timestamp="1649169882182" />
-    <state x="393" y="81" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649502814547" />
+    <state x="393" y="81" key="CommitChangelistDialog2/0.0.1536.824/0.-1080.1920.1040@0.0.1536.824" timestamp="1649503695304" />
     <state x="393" y="81" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1649444705379" />
     <state width="1515" height="171" key="GridCell.Tab.0.bottom" timestamp="1649192035885">
       <screen x="0" y="0" width="1536" height="824" />
