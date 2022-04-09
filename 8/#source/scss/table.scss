@@ -8,7 +8,7 @@
 
 
 table {
-    width: 100%;
+    /*width: 95%;*/
     margin-bottom: 20px;
     border: 20px solid #c41e1e;
     border-collapse: collapse; 
@@ -22,8 +22,12 @@ table th {
 table td {
     border: 1px solid #0000002d;
     padding: 5px;
+    vertical-align: middle;
 }
 
+.paragraph>.table-wrapper1{
+        width: 90%;
+    }
 
 
 @media screen and (min-width: 600px) {
