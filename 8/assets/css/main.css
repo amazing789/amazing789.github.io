@@ -23,13 +23,6 @@ p, h4, h3{
 	text-indent: 1em;
 }
 
-.qqq{
-	display: inline
-}
- 
-/* 2455 ширина кнопки */
-
-
 .buttons{
 	display: flex;
 	justify-content: space-around;
@@ -114,14 +107,14 @@ p, h4, h3{
 }
 
 
-.qqqww{
+.words-wrapper{
 	display: flex;
 	justify-content: center;	
 }
 
 
 .eng{
-	font-weight: 600;
+	/*font-weight: 600;*/
 	font-style: italic;
 }
 
@@ -149,9 +142,6 @@ h2, h4{
     margin-right: auto;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	
-	
-
 }
 
 
@@ -180,24 +170,6 @@ table td {
 		width: 50%;
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
