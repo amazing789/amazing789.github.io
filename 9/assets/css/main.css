@@ -161,6 +161,9 @@ h2, h4, h3 {
   .video_item {
     max-width: 90vw; } }
 
+.fab {
+  font-size: 50px; }
+
 .table-wrapper1 {
   margin-left: auto;
   margin-right: auto;
