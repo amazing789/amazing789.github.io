@@ -14,6 +14,7 @@ table {
     margin-bottom: 20px;
     border: 20px solid #c41e1e;
     border-collapse: collapse; 
+
 }
 table th {
     font-weight: bold;
@@ -29,7 +30,7 @@ table td {
 }
 
 .paragraph>.table-wrapper1{
-        width: 90%;
+        /*width: 90%;*/
     }
 
 
@@ -45,9 +46,13 @@ table td {
     .table-wrapper2{
     font-size: 15px;
 }
-table th {
+    table th {
     font-size: 14px;
     padding: 2px;
+
+}
+table {
+    width: 91vw;
 }
 }
 
