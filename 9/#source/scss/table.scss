@@ -18,8 +18,9 @@ table {
 table th {
     font-weight: bold;
     padding: 5px;
-    background: #d10909;
-    border: 1px solid #c21818;
+    background: #D7D7D7;
+    border: 1px solid #0000002d;
+    vertical-align: middle;
 }
 table td {
     border: 1px solid #0000002d;
@@ -32,9 +33,27 @@ table td {
     }
 
 
-@media screen and (min-width: 600px) {
+@media screen and (min-width: 1200px) {
 
     .paragraph>.table-wrapper1{
         width: 50%;
     }
 }
+
+@media screen and (max-width: 700px) {
+
+    .table-wrapper2{
+    font-size: 15px;
+}
+table th {
+    font-size: 14px;
+    padding: 2px;
+}
+}
+
+
+
+
+
+
+        
