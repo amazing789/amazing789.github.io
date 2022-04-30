@@ -141,7 +141,7 @@ h2, h4, h3{
 .iconscon{
     /*background: #F3A738;*/
     margin-right: 20px;
-    font-size: 50px;
+    font-size: 60px;
 }
 
 
@@ -156,7 +156,8 @@ h2, h4, h3{
 
 
 .button_contact {
-    color: red;
+    color: #2E3842;
+    padding-left: 15px;
     background-color: transparent;
     border: 2px solid #0B3954;
     appearance: none;
@@ -168,7 +169,7 @@ h2, h4, h3{
     // height: 3.125em;    
     line-height: 3.125em;
     /*letter-spacing: 0.125em; */
-    text-align: center;
+    text-align: left;
     vertical-align: middle;
     text-decoration: none;
     white-space: nowrap;
@@ -190,4 +191,18 @@ h2, h4, h3{
     .button1 {
         font-size: 0.74em;
     }
+}
+
+
+
+
+
+.fa-viber{
+font-size: 60px;
+}
+
+
+
+.fa-telegram{
+font-size: 62px;
 }
