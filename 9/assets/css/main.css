@@ -164,6 +164,36 @@ h2, h4, h3 {
 .fab {
   font-size: 50px; }
 
+.fa-brands {
+  font-size: 1.14em; }
+
+.contats_wrapper {
+  width: 400px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-top: 10px;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center; }
+
+.but_cont {
+  font-size: 0.95em;
+  letter-spacing: 0;
+  font-weight: s0; }
+
+.iconscon {
+  /*background: #F3A738;*/
+  margin-right: 20px;
+  font-size: 50px; }
+
+.icons_text {
+  /*background: #F3D34A;*/ }
+
 .table-wrapper1 {
   margin-left: auto;
   margin-right: auto;
