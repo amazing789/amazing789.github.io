@@ -240,8 +240,9 @@ h2, h4, h3 {
   color: red; }
 
 #menu ul > li > .red_color {
-  color: #CC2936;
-  font-weight: 600; }
+  color: #DE4D59;
+  /*font-weight: 500;*/
+  /*background: #1C9A90;*/ }
 
 .table-wrapper1 {
   margin-left: auto;
@@ -2708,7 +2709,7 @@ button:disabled,
 @media screen and (max-width: 736px) {
   #menu {
     padding: 3em 1.5em;
-    width: 50%; } }
+    width: 55%; } }
 
 body.is-menu-visible #page-wrapper {
   opacity: 0.35; }
